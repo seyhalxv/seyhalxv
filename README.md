@@ -44,7 +44,7 @@ I enjoy understanding how things work **deeply**, not just using them.
 
 ## 📫 Contact
 
-* GitHub: https://github.com/ton-username
+* GitHub: https://github.com/seyhalxv
 
 ---
 
