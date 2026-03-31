@@ -45,6 +45,7 @@ I enjoy understanding how things work **deeply**, not just using them.
 ## 📫 Contact
 
 * GitHub: https://github.com/seyhalxv
+* Linkedin : https://www.linkedin.com/in/ibenhaimouda/
 
 ---
 
